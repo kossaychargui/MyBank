@@ -27,7 +27,7 @@ This part of the project focuces on basic client managment within a bank. Users 
 
 1. Clone the Repository:
 
-git clone https://github.com/your-username/bank-project-part1.git
+git clone https://github.com/kossaychargui/bank-project-part1.git
 cd bank-project-part1
 2. Compile and Run:
 
