@@ -518,6 +518,6 @@ void bank(string file_name)
 }
 int main()
 {
-    bank("text.txt");
+    bank("clients.txt");
     return 0;
 }
